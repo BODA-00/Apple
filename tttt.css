@@ -1,0 +1,466 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+html
+{
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body
+{
+    direction: ltr;
+    text-align: center;
+}
+
+div.one
+{
+    background: #1a1a1c;
+    border: 8px double #1a1a1c;
+    margin: auto;
+}
+
+ul i
+{
+    color: #a3a3a3;
+    cursor: pointer;
+    display: none;
+}
+
+div.two
+{
+    width: 1303px;
+    height: 200px;
+    background: black;
+}
+
+div.theree
+{
+    background: #f7f7f7;
+    width: 1303px;
+    height: 200px;
+}
+
+div.four
+{
+    width: 1303px;
+    height: 300px;
+    background: black;
+}
+
+div.five
+{
+    width: 1279px;
+    height: 1184px;
+    background: white;
+}
+
+div.six
+{
+    width: 1303px;
+    height: 411.75px;
+    background: #eeeeee;
+}
+
+div.background
+{
+    background-image: url(RRRR.jpg);
+    background-size: cover;
+    color: #000;
+    background-position: center center;
+    padding: 20px;
+    margin: 20px;
+}
+
+a.sub
+{
+    width: 40%;
+    border: 1px solid #37ff37;
+    border-radius: 30px;
+    height: 20%;
+    background-color: #97cbff;
+    margin: 10px 0px 10px 10px;
+    padding: 10px 100px 10px 100px;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div.Box
+{
+    width: 80%;
+    margin: 30px auto;
+    border-radius: 20px;
+    padding: 10px;
+    border: #37ff37 5px solid;
+}
+
+.login,
+.dia
+{
+    text-align: center;
+}
+
+input
+{
+    width: 50%;
+    border: 1px solid #37ff37;
+    border-radius: 10px;
+    height: 1.7em;
+    background-color: #97cbff;
+    margin: 10px 0px 10px 10px;
+    padding: 10px 0px 10px 10px;
+}
+
+input[name="name"], input[name="email"]
+{
+    color: black;
+    font-weight: bold;
+}
+
+input[name="pass"]
+{
+    width: 47%;
+    color: black;
+    font-weight: bold;
+}
+
+.sub
+{
+    width: calc((100% - 30%) /2);
+    color: #000;
+    height: 2em;
+}
+
+.buttons
+{
+    text-align: center;
+}
+
+.terms
+{
+    width: 15px;
+    height: 15px;
+    line-height: normal;
+}
+
+a.link
+{
+    color: #37ff37;
+    text-shadow: white 0.5px 0.5px 1px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+span.Hiding
+{
+    visibility: hidden;
+}
+
+h2.login
+{
+    color: #97cbff;
+    font-size: 33px;
+    font-weight: 900
+}
+
+label.Name,
+label.email,
+label.Pass,
+label.remember,
+label.termss,
+label.regigster-link
+{
+    color: #97cbff;
+    font-weight: bold
+}
+
+label.regigster-link
+{
+    padding: 10px;
+}
+
+ul li
+{
+    margin: auto;
+    padding: 10px;
+    list-style-type: none; 
+    list-style-position: inside; 
+    list-style-image: none;
+    border: none;
+    display: inline;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1024px;
+    padding-top: 0;
+    padding-bottom: 0;
+    z-index: 2
+}
+
+a.Apple
+{
+    color: #a3a3a3;
+    text-decoration: none;
+}
+
+a.Apple:hover
+{
+    color: #d8d8d8;
+}
+
+header
+{
+    position: relative;
+}
+
+h1.white,p.white
+{
+    color: #FFF;
+    margin: 0px;
+    font-weight: bold;
+}
+
+h1.white
+{
+    font-size: 50px
+}
+
+p.white
+{
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+div.button, div a.button-button
+{
+    background: #0070df;
+    color: #FFF;
+    width: 130px;
+    height: 33px;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 15px 0px 0px 0px;
+    margin: auto;
+}
+
+h1.black,p.black
+{
+    color: black;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h1.black
+{
+    font-size: 50px;
+}
+
+p.black
+{
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+img.img
+{
+    width: 1303px;
+    height: 370px;
+    margin: auto;
+}
+
+img.img-1
+{
+    width: 1303px;
+    height: 370px;
+    margin: auto;
+}
+
+img.img-2
+{
+    width: 1303px;
+    height: 300px;
+    margin: auto;
+}
+
+h2.logo-img
+{
+    color: white;
+    margin-top: 9px; 
+}
+
+img.logo-apple
+{
+    display: inline;
+}
+
+h1.whitee
+{
+    display: inline;
+    color: #FFF;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+
+
+
+
+
+
+h1.social-1
+{
+    width: 650px;
+    background: transparent;
+    direction: ltr;
+    text-align: left;
+    color: #97cbff;
+    border: 0px double red;
+    padding: 10px;
+    margin: 0px 10px 10px 0px;
+}
+
+div.logs
+{
+    background: transparent;
+    border: 5px dashed #37ff37;
+    padding: 0px 0px 10px 0px;
+}
+
+ul.Social li
+{
+    margin-top: 3.5rem;
+    list-style-type: none; 
+    list-style-position: inside; 
+    list-style-image: none;
+    border: none;
+    display: inline;
+}
+
+img.logo:hover
+{
+    transform: scale(1.2);
+    transition: 0.4s;
+}
+
+a.Facebook
+{
+    color: #00f;
+    text-decoration: none;
+    margin-right: 2rem;
+    width: 2.5rem;
+}
+
+a.Facebook:hover
+{
+    color: #00f;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.Facebook:active
+{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a.Instagram
+{
+    color: #ca3587;
+    text-decoration: none;
+    margin-right: 2rem;
+    width: 2.5rem;
+}
+
+a.Instagram:hover
+{
+    color: #ca3587;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.Instagram:active
+{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a.WhatsApp
+{
+    color: #00d200;
+    text-decoration: none;
+    margin-right: 2rem;
+    width: 2.5rem;
+}
+
+a.WhatsApp:hover
+{
+    color: #00d200;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.WhatsApp:active
+{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a.Unigram
+{
+    color: #0080ff;
+    text-decoration: none;
+    margin-right: 2rem;
+    width: 2.5rem;
+}
+
+a.Unigram:hover
+{
+    color: #0080ff;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.Unigram:active
+{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a.Youtube
+{
+    color: red;
+    text-decoration: none;
+    margin-right: 2rem;
+    width: 2.5rem;
+}
+
+a.Youtube:hover
+{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a.Youtube:active
+{
+    color: black;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+i
+{
+    color: #37ff37;
+}
